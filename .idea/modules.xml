@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CODE/CODE_SEPARATELY/CODE_SEPARATELY.iml" filepath="$PROJECT_DIR$/CODE/CODE_SEPARATELY/CODE_SEPARATELY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/TEST_PROGRAM/DSA_Project_1/DSA_Project_1.iml" filepath="$PROJECT_DIR$/CODE/TEST_PROGRAM/DSA_Project_1/DSA_Project_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project_1_122474.iml" filepath="$PROJECT_DIR$/.idea/Project_1_122474.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODE/TEST_PROGRAM/TEST_PROGRAM.iml" filepath="$PROJECT_DIR$/CODE/TEST_PROGRAM/TEST_PROGRAM.iml" />
+    </modules>
+  </component>
+</project>
